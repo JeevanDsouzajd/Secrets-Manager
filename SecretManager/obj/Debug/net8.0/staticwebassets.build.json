@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UlJfVROXltcLrB7cRKAh9j7DIh6ZPQ9GoxQaCZe0Wkw=",
+  "Source": "SecretManager",
+  "BasePath": "_content/SecretManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
